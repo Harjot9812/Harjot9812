@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Harjot Singh (https://harjot9812.github.io/)
+### I am [Harjot Singh](https://harjot9812.github.io/)
 ### ✅ &nbsp;Connect with me
 <a href="https://www.linkedin.com/in/harjotsingh98/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
